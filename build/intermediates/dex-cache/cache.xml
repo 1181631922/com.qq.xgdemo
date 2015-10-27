@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GitHub\com.qq.xgdemo\app\libs\Xg_sdk_v2.39_20150915_1121.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b1a16d54584c44f32d2492e25acab5f8d07772fb">
+        <dex dex="D:\GitHub\com.qq.xgdemo\app\build\intermediates\pre-dexed\debug\Xg_sdk_v2.39_20150915_1121-ba60ea0983abf7ca4ac18039e65ae7a0ee65d58b.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\com.qq.xgdemo\app\libs\jg_filter_sdk_1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ebfc3cde0309ff27e9568757784eefefc71407a2">
+        <dex dex="D:\GitHub\com.qq.xgdemo\app\build\intermediates\pre-dexed\debug\jg_filter_sdk_1.1-9656f0911783186d098dbf07773dc521293915d2.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\com.qq.xgdemo\app\libs\mid-sdk-2.20.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0822bf00661a83ba2fab32214c70cc50a244a0a3">
+        <dex dex="D:\GitHub\com.qq.xgdemo\app\build\intermediates\pre-dexed\debug\mid-sdk-2.20-33d3ca625b9515889763d6476c9467cca8a69723.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\GitHub\com.qq.xgdemo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-06f6838d042bd52b584513a72de16771f90e535b.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\com.qq.xgdemo\app\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0845068801a0b9a3a144b7cf57cb650b3d467e5">
+        <dex dex="D:\GitHub\com.qq.xgdemo\app\build\intermediates\pre-dexed\debug\wup-1.0.0-SNAPSHOT-d22c98118670af3beaa5abd2327ab5f45787d62a.jar" />
+    </item>
+
+</items>

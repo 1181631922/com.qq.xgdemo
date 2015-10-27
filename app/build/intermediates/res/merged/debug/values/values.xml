@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/GitHub/com.qq.xgdemo/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="fuxk_base_color_white">#ffffff</color>
+    <color name="fuxk_base_divide_line_color">#dcdcdc</color>
+    <!-- From: file:/D:/GitHub/com.qq.xgdemo/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <color name="gray">#858585</color>
+    <declare-styleable name="ExtendedListView"><attr format="reference" name="scrollBarPanel"/><attr format="reference" name="scrollBarPanelInAnimation"/><attr format="reference" name="scrollBarPanelOutAnimation"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/GitHub/com.qq.xgdemo/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_about_us">关于信鸽</string>
+    <string name="action_back">返回上级</string>
+    <string name="action_clear">清除已收到通知</string>
+    <string name="action_device_token">设备Token</string>
+    <string name="action_diagnosis">一键诊断</string>
+    <string name="action_help_center">帮助中心</string>
+    <string name="action_search">搜索</string>
+    <string name="action_setting">功能设置</string>
+    <string name="app_name">信鸽Demo</string>
+    <string name="clearCache">清除本地缓存</string>
+    <string name="copyToken">复制Token</string>
+    <string name="delTag">删除标签</string>
+    <string name="device">您的设备Token为：</string>
+    <string name="device_hint">已成功上传至网页端测试设备页面</string>
+    <string name="device_title">您的设备Token为：</string>
+    <string name="register">启动&amp;注册</string>
+    <string name="registerAccount">启动&amp;注册（绑定账号）</string>
+    <string name="tag">设置标签</string>
+    <string name="unregister">反注册</string>
+    <string name="version">信鸽Demo 2.3.5</string>
+    <!-- From: file:/D:/GitHub/com.qq.xgdemo/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
